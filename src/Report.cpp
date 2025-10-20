@@ -3,9 +3,9 @@
 #include <iostream>
 #include <string>
 using namespace std;
-#include "Report.h"
+#include "../include/Report.h"
 
-    void Report::setCompanyName(string compName) {
+void Report::setCompanyName(string compName) {
         companyName = compName;
     }
     string Report::getCompanyName() {

@@ -1,6 +1,6 @@
 // Created by Moises Felix on 10/3/2025.
 
-#include "Technician.h"
+#include "../include/Technician.h"
 
 void Technician::setAsbestosLicense(string license) {
     asbestosLicense = license;

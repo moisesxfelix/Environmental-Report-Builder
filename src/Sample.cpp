@@ -1,6 +1,6 @@
 // Created by Moises Felix on 10/3/2025.
 
-#include "Sample.h"
+#include "../include/Sample.h"
 
 void Sample::setSampleNumber(string sampleNum) {
     sampleNumber = sampleNum;

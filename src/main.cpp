@@ -2,9 +2,9 @@
 #include <vector>
 #include <iostream>
 using namespace std;
-#include "AsbestosReport.h"
-#include "Technician.h"
-#include "Employee.h"
+#include "../include/AsbestosReport.h"
+#include "../include/Technician.h"
+#include "../include/Employee.h"
 
 int main() {
 

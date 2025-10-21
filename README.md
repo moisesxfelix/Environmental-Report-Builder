@@ -114,7 +114,7 @@ This repository includes example txt file inputs to be mirrored for build
 
 ## Motivation (Original Note)
 > The idea and development of this project started when a close friend expressed their tedious task of
-> generating environmental reports using inefficient procedures. This project aims to streamline the
+> generating environmental reports using inefficient copy-paste procedures. This project aims to streamline the
 > process of generating environmental reports to increase efficiency and productivity.
 
 
